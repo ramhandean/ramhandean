@@ -3,7 +3,7 @@
 # Dean Ramhan
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&height=45&lines=Full+Stack+%26+Systems+Engineer;Go+Fiber+%C2%B7+Financial+Engines+%C2%B7+AI+Infra;Junior+Full+Stack+Developer+%40+Fleetify.id;Founder+of+Engine+Room+(engineroom.my.id)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&height=45&lines=Full+Stack+%26+Systems+Engineer;Go+Fiber+%C2%B7+Financial+Engines+%C2%B7+AI+Infra;Junior+Full+Stack+Developer+%40+Fleetify.id;Creator+of+SahamFlow+%26+RantauPay" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -18,49 +18,46 @@
 
 ---
 
-### ⚡ Overview
+### Overview
 
-**Full Stack & Systems Engineer** dengan fokus pada arsitektur backend konkurensi tinggi (**Go / Fiber**), engine komputasi finansial presisi (*logika klaim asuransi, kalkulasi PPh 23 & PPN, order book dynamics*), serta orkestrasi **On-Premise AI & RAG Pipeline**. Berpengalaman memodernisasi arsitektur monolith legacy (*PHP/CI3*) menjadi microservices berdaya tahan tinggi, serta membangun aplikasi frontend & mobile modern (*Next.js 15/16, Svelte, Flutter, Capacitor 8*).
+**Full Stack & Systems Engineer** dengan fokus pada arsitektur backend konkurensi tinggi (**Go / Fiber**), engine komputasi finansial presisi, serta orkestrasi **On-Premise AI & RAG Pipeline**. Berpengalaman memodernisasi arsitektur monolith legacy menjadi microservices, serta membangun aplikasi frontend & mobile modern.
 
-- 🏢 **Daily Role:** Junior Full Stack Developer di **Fleetify.id** (BSD Tangerang Selatan) — integrasi multi-repo asuransi kendaraan, eliminasi bottleneck N+1 query, serta modul klaim Third Party Liability (TPL).
-- 🔬 **Ecosystem & Labs:** Founder & Operator **[Engine Room](https://www.engineroom.my.id)** — pusat inkubasi sistem intelijen saham (*SahamFlow*) dan manajer finansial personal (*RantauPay*).
-- 🎓 **Education:** S1 Sistem Informasi — Universitas Terbuka (2026 — Sekarang) · Rekayasa Perangkat Lunak — SMKN 2 Sukabumi (2018 — 2021).
+- **Currently:** Junior Full Stack Developer di **[Fleetify.id](https://fleetify.id)**, financial engines, multi-repo insurance integration, Go Fiber backend.
+- **Independent Products:** Creator & maintainer [SahamFlow](https://sahamflow.engineroom.my.id) & [RantauPay](https://rantaupay.my.id).
+- **Portfolio:** [engineroom.my.id](https://www.engineroom.my.id/u/ramhandean)
 
 ---
 
-### 🚀 Flagship Production Systems
+### Flagship Production Systems
 
-#### 📈 [SahamFlow](https://sahamflow.engineroom.my.id) — Terminal Intelijen Saham Multi-Pasar
-> Sintesis 5-lapisan analisis kausal: *Makroekonomi → Fundamental → Wyckoff VSA → Sentimen Katalis → Fisika Order Book L2*.
+#### [SahamFlow](https://sahamflow.engineroom.my.id): Terminal Intelijen Saham Multi-Pasar
+> Sintesis 5-lapisan analisis kausal: *Makroekonomi, Fundamental, Wyckoff VSA, Sentimen Katalis, Fisika Order Book L2*.
 
-- **Problem & Solution:** Mengurai kerumitan analisis pasar saham IHSG & Wall Street dengan data pipeline multi-layer dan agen AI otonom (11 financial tools).
-- **Core Architecture:** Sub-millisecond read cache (SQLite WAL + Redis), integrasi interaktif TradingView Lightweight Charts, dan worker agregator data real-time.
-- **Tech Stack:** `Next.js 15` · `TypeScript` · `TradingView` · `Redis` · `SQLite WAL` · `AI Agentic Tools`
-- 🔗 **Direct Link:** [sahamflow.engineroom.my.id →](https://sahamflow.engineroom.my.id)
+Mengurai kerumitan analisis pasar saham IHSG & Wall Street dengan data pipeline multi-layer dan agen AI otonom (11 financial tools). Sub-millisecond read cache (SQLite WAL + Redis), integrasi interaktif TradingView Lightweight Charts, dan worker agregator data real-time.
+
+`Next.js 15` · `TypeScript` · `TradingView` · `Redis` · `SQLite WAL` · `AI Agentic Tools` · [Live →](https://sahamflow.engineroom.my.id)
 
 <br/>
 
-#### 💳 [RantauPay](https://rantaupay.my.id) — Smart Financial Manager & Multi-Pocket Budgeting
+#### [RantauPay](https://rantaupay.my.id): Smart Financial Manager & Multi-Pocket Budgeting
 > Pencatatan transaksi instan bertenaga AI Voice Assistant dan bot Telegram terintegrasi.
 
-- **Problem & Solution:** Mengatasi friksi pencatatan keuangan manual melalui pemrosesan suara real-time (Gemini & n8n workflow) dan sinkronisasi bot Telegram (`@RantauPayBot`).
-- **Core Architecture:** Multi-pocket virtual budgeting, visualisasi burn-rate interaktif (Recharts), auto-generate E-Statement PDF resmi, dan wrapper mobile multiplatform Capacitor 8.
-- **Tech Stack:** `Next.js 15` · `React 19` · `Supabase RLS` · `Capacitor 8` · `Tailwind v4`
-- 🔗 **Direct Link:** [rantaupay.my.id →](https://rantaupay.my.id)
+Mengatasi friksi pencatatan keuangan manual melalui pemrosesan suara real-time (Gemini & n8n workflow) dan sinkronisasi bot Telegram (`@RantauPayBot`). Multi-pocket virtual budgeting, visualisasi burn-rate interaktif (Recharts), auto-generate E-Statement PDF, dan wrapper mobile multiplatform Capacitor 8.
+
+`Next.js 15` · `React 19` · `Supabase RLS` · `Capacitor 8` · `Tailwind v4` · [Live →](https://rantaupay.my.id)
 
 <br/>
 
-#### ⚡ [Engine Room](https://www.engineroom.my.id) — Developer Identity & Tooling Hub
-> Infrastruktur node portofolio dan pelacak metrik teknis terenkripsi.
+#### [Engine Room](https://www.engineroom.my.id): Developer Portfolio & Product Hub
+> Platform portofolio developer dan pusat navigasi seluruh produk digital independen.
 
-- **Problem & Solution:** Platform sentral untuk mengelola ekosistem produk digital, pelacakan telemetry portofolio, dan verifikasi sertifikasi teknis.
-- **Core Architecture:** Turbopack deployment engine, sinkronisasi metadata terdistribusi, dan kontrol akses berbasis peran (RBAC).
-- **Tech Stack:** `Next.js 16` · `Supabase` · `PostgreSQL` · `Turbopack` · `TailwindCSS`
-- 🔗 **Direct Link:** [engineroom.my.id/u/ramhandean →](https://www.engineroom.my.id/u/ramhandean)
+Satu platform sentral untuk menampilkan portofolio engineering, melacak metrik teknis, dan menjadi gateway ke seluruh produk independen. Turbopack deployment engine, sinkronisasi metadata terdistribusi, dan kontrol akses berbasis peran (RBAC).
+
+`Next.js 16` · `Supabase` · `PostgreSQL` · `Turbopack` · `TailwindCSS` · [Live →](https://www.engineroom.my.id/u/ramhandean)
 
 ---
 
-### 🛠️ Tech Stack & Capabilities
+### Tech Stack & Capabilities
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go,ts,js,python,php,dart,flutter,react,nextjs,svelte,tailwind,postgres,redis,sqlite,docker,linux,bash&theme=dark" alt="Dean's Skills" />
@@ -77,42 +74,28 @@
 
 ---
 
-### 💼 Engineering Experience
+### Professional Background
 
-#### **Junior Full Stack Developer** — [Fleetify.id](https://fleetify.id)
-*`2026 — Present` · BSD Tangerang Selatan, Banten*
-- **Multi-Repo & Insurance Integration:** Mengintegrasikan arsitektur multi-repository lintas backend Go (Fiber), core legacy PHP (CI3), dan frontend web untuk pemrosesan modul klaim asuransi & kendaraan *Third Party Liability* (TPL).
-- **Financial & Tax Calculation Engine:** Merancang mesin kalkulasi klaim presisi tinggi mencakup pemotongan PPh 23, opsi PPN dinamis, konfigurasi *Own Risk* (OR), serta deposit saldo vendor dengan mekanisme *auto-deduction*.
-- **Backend Optimization & Reliability:** Mengeliminasi bottleneck performa dengan membenahi masalah N+1 query pada Go Fiber, optimasi query relasi `COALESCE` database, dan implementasi *null-safety guard* untuk mencegah runtime panic.
-- **Resilient Multi-Device Sync:** Mengembangkan fitur drafting SPK adaptif dengan mekanisme *auto-save* lokal anti-hilang data saat refresh dan cloud synchronization antar perangkat.
+| Period | Role | Focus |
+|---|---|---|
+| **2026 — Present** | Junior Full Stack Developer · [Fleetify.id](https://fleetify.id) | Multi-repo insurance integration, financial calculation engines (PPh 23, PPN, OR), Go Fiber optimization |
+| **2023 — 2026** | IT Developer (Full Stack) · Hexacode Teknologi | On-premise AI/LLM infra, RAG pipelines, scalable Go API Gateway, Docker & MicroK8s orchestration |
+| **2025** | Exhibitor · Google DevFest Bandung | Edge Computing & Local LLM architecture demo |
 
-#### **IT Developer (Full Stack)** — PT Hexacode Teknologi Indonesia
-*`2023 — 2026` · BSD Tangerang Selatan, Banten*
-- **On-Premise AI Infrastructure:** Merancang infrastruktur Local LLM (Ollama) mandiri untuk memangkas biaya operasional API cloud serta menjamin privasi data internal perusahaan.
-- **RAG & Function Calling Pipelines:** Mengimplementasikan Retrieval-Augmented Generation dan pipeline Function Calling berbasis Python untuk otomatisasi knowledge base dan pencarian semantik dokumen internal.
-- **High-Throughput Gateway & Blockchain:** Membangun scalable API Gateway dengan Golang untuk menangani beban konkurensi tinggi, terintegrasi sistem tanda tangan digital Blockchain, Flutter, dan *NATS messaging backbone*.
-- **Container Orchestration & Microservices:** Mengorkestrasikan cluster microservices menggunakan Docker dan MicroK8s (Kubernetes) untuk menjamin stabilitas dan high availability sistem.
-
-#### **Representative & Exhibitor** — Google DevFest Bandung
-*`2025` · Bandung, Jawa Barat*
-- Mendemonstrasikan arsitektur integrasi Edge Computing, Local LLM, dan pipeline RAG kepada komunitas developer atas nama Hexacode.
+> 📄 Riwayat lengkap tersedia di [CV (PDF)](https://ofoglpgpzcjgsatspywh.supabase.co/storage/v1/object/public/avatars/cvs/1775424392199.pdf) dan [LinkedIn](https://www.linkedin.com/in/dean-ramhan/).
 
 ---
 
-### 📈 Activity & Engineering Metrics
+### Activity
 
 <p align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=ramhandean&show_icons=true&theme=tokyonight&hide_border=false&border_color=1E293B&bg_color=090D16&text_color=94A3B8&icon_color=38BDF8&title_color=F1F5F9" alt="Dean's GitHub Stats" />&nbsp;
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=ramhandean&layout=compact&theme=tokyonight&hide_border=false&border_color=1E293B&bg_color=090D16&text_color=94A3B8&title_color=F1F5F9" alt="Top Languages" />
-</p>
-
-<p align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=ramhandean&show_icons=true&theme=tokyonight&hide_border=false&border_color=1E293B&bg_color=090D16&text_color=94A3B8&icon_color=38BDF8&title_color=F1F5F9" alt="GitHub Stats" />&nbsp;
   <img height="180" src="https://streak-stats.demolab.com/?user=ramhandean&theme=tokyonight&hide_border=false&background=090D16&border=1E293B&stroke=1E293B&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&currStreakNum=F1F5F9&sideNums=F1F5F9&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📬 Direct Channels & Networks
+### Direct Channels
 
 <p align="center">
   <a href="https://www.engineroom.my.id/u/ramhandean"><img src="https://img.shields.io/badge/Guestbook-Engine_Room-38BDF8?style=flat-square&logo=terminal&logoColor=white&labelColor=090D16" alt="Guestbook" /></a>&nbsp;
